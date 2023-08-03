@@ -21,5 +21,8 @@
             </intent-filter>
         </activity>
     </application>
+    <queries>
+        <provider android:authorities="com.potemkin.shoppinglist"/>
+    </queries>
 
 </manifest>
